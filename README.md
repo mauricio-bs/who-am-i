@@ -1,8 +1,9 @@
 # who-am-i
 
-A landing page to tell more about me
+<p>A landing page to tell more about me</p>
 
-<img src="./assets/Desafio-1-HTML-Quem_Sou.jpg" width="350px" alt="page-Image">
+<img src="./assets/Desafio-1-HTML-Quem_Sou.PNG" width="350px" alt="page-Image">
+
 
 ## 🤝 Colaborators
 
